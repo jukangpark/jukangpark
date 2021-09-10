@@ -9,6 +9,6 @@ https://www.notion.so/0ff8ff9bbec047eba25c43ae328c1d88
 
 
 ## Tech Stack
-
+http://img.shields.io/badge/-Node.js-8FBC07?style=flat&logo=Node.js&link=file:///C:/Users/user/Downloads/nodedotjs%20(1).svg
 
 
