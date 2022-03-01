@@ -4,6 +4,6 @@
 
 https://www.notion.so/0ff8ff9bbec047eba25c43ae328c1d88
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jukangpark&show_icons=true&theme=tokyonight)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jukangpark&show_icons=true&theme=onedark)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jukangpark&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jukangpark&layout=compact&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
