@@ -7,7 +7,7 @@
 |--|--|
 
 <div align="center">
-  <h3>Notion Portfolio</h3>
+  <h2>Notion Portfolio</h2>
   <a href="https://www.notion.so/0ff8ff9bbec047eba25c43ae328c1d88">
     <img align="center" src="https://www.techm.kr/news/photo/202003/img_7993_0.png" width="50px"/>
      
@@ -18,7 +18,7 @@
 
 <div align="center">
   
-<h3>Tech Stack</h3>
+<h2>Tech Stack</h2>
   
 <img height='25' src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=HTML5&logoColor=white"/>
 <img height='25' src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=CSS3&logoColor=white"/>
@@ -47,11 +47,11 @@
 </div>
 
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats" />
+<a href="https://github.com/jukangpark/SoundCloud_Clone">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jukangpark&repo=github-readme-stats" />
 </a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=convoychat" />
+<a href="https://github.com/jukangpark/Twitter_Clone">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jukangpark&repo=convoychat" />
 </a>
 
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=B897FF&height=100&section=footer)
