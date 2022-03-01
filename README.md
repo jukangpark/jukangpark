@@ -11,7 +11,7 @@
     <img align="center" src="https://www.techm.kr/news/photo/202003/img_7993_0.png" width="50px"/>
      
   </a>
-  &nbsp;👈🏻&nbsp;Click Me!
+  &nbsp;👈🏻&nbsp;Click!
 </div>
 
 <div align="center">
