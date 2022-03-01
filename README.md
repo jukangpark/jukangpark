@@ -1,4 +1,3 @@
-<div align="center">
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=B897FF&height=250&section=header&text=Jukang's%20Github%20🌏&fontSize=60&fontColor=ffffff)
 
@@ -11,15 +10,14 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jukangpark&layout=compact&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
 
 <a href="https://www.notion.so/0ff8ff9bbec047eba25c43ae328c1d88">
-  My Notion Portfolio &rarr;
-  <img align="center" src="https://www.techm.kr/news/photo/202003/img_7993_0.png" width="50px" />
-
+  Portfolio &rarr;
+  <img align="center" src="https://www.techm.kr/news/photo/202003/img_7993_0.png" width="50px" marginLeft="10px"/>
 </a>
 
 
 <hr>
 <h3>⚔ Tech Stack ⚔</h3>
-
+<div align="center">
 <img height='25' src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=HTML5&logoColor=white"/>
 <img height='25' src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=CSS3&logoColor=white"/>
 <img height='25' src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=TypeScript&logoColor=white"/>
@@ -60,7 +58,6 @@
 <img height='25' src="https://img.shields.io/badge/Netlify-00C7B7?style=flat-square&logo=Netlify&logoColor=white"/>
 <img height='25' src="https://img.shields.io/badge/Heroku-430098?style=flat-square&logo=Heroku&logoColor=white"/>
 <img height='25' src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=Vercel&logoColor=white"/>
-
+</div>
 
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=B897FF&height=100&section=footer)
-</div>
