@@ -1,3 +1,4 @@
+<div>
 ![header](https://capsule-render.vercel.app/api?type=waving&color=B897FF&height=250&section=header&text=Jukang's%20Github%20🌏&fontSize=60&fontColor=ffffff)
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter&count_bg=%23B897FF&title_bg=%23BE3DD9&icon=github.svg&icon_color=%23E7E7E7&title=visit&edge_flat=false)](https://hits.seeyoufarm.com)
@@ -56,3 +57,4 @@
 </div>
 
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=B897FF&height=100&section=footer)
+</div>
