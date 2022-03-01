@@ -51,7 +51,7 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jukangpark&repo=Twitter_Clone" />
 </a>
 
-|[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=jukangpark&repo=Twitter_Clone)](https://github.com/jukangpark/Twitter_Clone)|
+|[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=jukangpark&repo=Twitter_Clone)](https://github.com/jukangpark/Twitter_Clone)|[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=jukangpark&repo=Twitter_Clone)](https://github.com/jukangpark/Twitter_Clone)
 |--|--|
 
 
