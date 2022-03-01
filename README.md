@@ -44,14 +44,7 @@
   
 </div>
 
-<a href="https://github.com/jukangpark/SoundCloud_Clone">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jukangpark&repo=SoundCloud_Clone" />
-</a>
-<a href="https://github.com/jukangpark/Twitter_Clone">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jukangpark&repo=Twitter_Clone" />
-</a>
-
-|[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=jukangpark&repo=SoundCloud_Clone)](https://github.com/jukangpark/SoundCloud_Clone)|[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=jukangpark&repo=Twitter_Clone)](https://github.com/jukangpark/Twitter_Clone)
+|[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=jukangpark&repo=SoundCloud_Clone&theme=cobalt)](https://github.com/jukangpark/SoundCloud_Clone)|[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=jukangpark&repo=Twitter_Clone&theme=cobalt)](https://github.com/jukangpark/Twitter_Clone)
 |--|--|
 
 
