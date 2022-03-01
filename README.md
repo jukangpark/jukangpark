@@ -45,10 +45,10 @@
 </div>
 
 <a href="https://github.com/jukangpark/SoundCloud_Clone">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/&theme=cobalt?username=jukangpark&repo=SoundCloud_Clone" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jukangpark&repo=SoundCloud_Clone" />
 </a>
 <a href="https://github.com/jukangpark/Twitter_Clone">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/&theme=cobalt?username=jukangpark&repo=Twitter_Clone" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jukangpark&repo=Twitter_Clone" />
 </a>
 
 
