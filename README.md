@@ -7,7 +7,7 @@
 |--|--|
 
 <div align="center">
-  <h2>Notion Portfolio</h2>
+  <h3>Notion Portfolio</h3>
   <a href="https://www.notion.so/0ff8ff9bbec047eba25c43ae328c1d88">
     <img align="center" src="https://www.techm.kr/news/photo/202003/img_7993_0.png" width="50px"/>
      
@@ -17,7 +17,7 @@
 
 <div align="center">
   
-<h2>Tech Stack</h2>
+<h3>Tech Stack</h3>
   
 <img height='25' src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=HTML5&logoColor=white"/>
 <img height='25' src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=CSS3&logoColor=white"/>
