@@ -48,10 +48,10 @@
 
 
 <a href="https://github.com/jukangpark/SoundCloud_Clone">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jukangpark&repo=github-readme-stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jukangpark&repo=SoundCloud_Clone" />
 </a>
 <a href="https://github.com/jukangpark/Twitter_Clone">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jukangpark&repo=convoychat" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jukangpark&repo=Twitter_Clone" />
 </a>
 
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=B897FF&height=100&section=footer)
