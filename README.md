@@ -5,3 +5,5 @@
 https://www.notion.so/0ff8ff9bbec047eba25c43ae328c1d88
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jukangpark&show_icons=true&theme=radical)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jukangpark)](https://github.com/anuraghazra/github-readme-stats)
