@@ -15,3 +15,6 @@
 </a>
 
 ## Tech Stack ##
+
+
+![footer](https://capsule-render.vercel.app/api?type=waving&color=B897FF&height=200&section=footer)
