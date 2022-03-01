@@ -14,7 +14,6 @@
   </a>
   &nbsp;👈🏻
 </div>
-<hr>
 
 <div align="center">
   
@@ -46,7 +45,7 @@
   
 </div>
 
-
+<div marginTop="50px"></div>
 <a href="https://github.com/jukangpark/SoundCloud_Clone">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jukangpark&repo=SoundCloud_Clone" />
 </a>
