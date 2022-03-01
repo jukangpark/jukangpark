@@ -42,7 +42,7 @@
 <img height='25' src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"/>
   
 
-|[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=jukangpark&repo=SoundCloud_Clone&theme=cobalt)](https://github.com/jukangpark/SoundCloud_Clone)|[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=jukangpark&repo=Twitter_Clone&theme=cobalt)](https://github.com/jukangpark/Twitter_Clone)
+|[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=jukangpark&repo=SoundCloud_Clone&theme=tokyonight)](https://github.com/jukangpark/SoundCloud_Clone)|[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=jukangpark&repo=Twitter_Clone&theme=tokyonight)](https://github.com/jukangpark/Twitter_Clone)
 |--|--|
 
 
