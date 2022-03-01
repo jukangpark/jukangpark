@@ -10,7 +10,7 @@
   <a href="https://www.notion.so/0ff8ff9bbec047eba25c43ae328c1d88">
     <img align="center" src="https://www.techm.kr/news/photo/202003/img_7993_0.png" width="50px" marginLeft="10px"/>
   </a>
-      Portfolio
+      👈🏻 Portfolio
 </div>
 <hr>
 
