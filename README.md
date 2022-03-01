@@ -1,5 +1,5 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=B897FF&height=250&section=header&text=Jukang's%20Github%20🌏&fontSize=60&fontColor=ffffff)
-
+<br>
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter&count_bg=%23B897FF&title_bg=%23BE3DD9&icon=github.svg&icon_color=%23E7E7E7&title=visit&edge_flat=false)](https://hits.seeyoufarm.com)
 
 
@@ -44,13 +44,14 @@
 <img height='25' src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"/>
   
 </div>
-
-<div marginTop="50px"></div>
+<br>
+<br>
 <a href="https://github.com/jukangpark/SoundCloud_Clone">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jukangpark&repo=SoundCloud_Clone" />
 </a>
 <a href="https://github.com/jukangpark/Twitter_Clone">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jukangpark&repo=Twitter_Clone" />
 </a>
-
+<br>
+<br>
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=B897FF&height=100&section=footer)
