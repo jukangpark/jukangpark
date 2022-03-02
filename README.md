@@ -2,7 +2,7 @@
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=B897FF&height=250&section=header&text=Jukang's%20Github%20🌏&fontSize=60&fontColor=ffffff)
 
-<a href="https://www.notion.so/0ff8ff9bbec047eba25c43ae328c1d88">
+<a href="https://www.notion.so/0ff8ff9bbec047eba25c43ae328c1d88" align="left">
   <img align="center" src="https://www.techm.kr/news/photo/202003/img_7993_0.png" width="50px"/>
 </a>
 &nbsp;👈🏻&nbsp;Click!
