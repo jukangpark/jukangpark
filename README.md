@@ -48,6 +48,13 @@
 |  [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=jukangpark&repo=soundcloud&theme=tokyonight)] |  ![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=jukangpark&repo=twitter&theme=tokyonight)](https://github.com/jukangpark/Twitter_Clone) |
 |---|---|
 |  ![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=jukangpark&repo=twitter&theme=tokyonight) | ![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=jukangpark&repo=twitter&theme=tokyonight)  |
+  
+  
+  
+|  [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=jukangpark&repo=soundcloud&theme=tokyonight)]  | [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=jukangpark&repo=soundcloud&theme=tokyonight)]   |
+|---|---|
+| [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=jukangpark&repo=soundcloud&theme=tokyonight)]   |  [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=jukangpark&repo=soundcloud&theme=tokyonight)]  |
+  
 
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=B897FF&height=100&section=footer)
 
