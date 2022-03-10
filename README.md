@@ -47,7 +47,7 @@
 
   
   
-|  [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=jukangpark&repo=soundcloud&theme=tokyonight)](https://github.com/jukangpark/netflix) | ![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=jukangpark&repo=netflix&theme=tokyonight)   |
+|  [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=jukangpark&repo=soundcloud&theme=tokyonight)](https://github.com/jukangpark/soundcloud) | [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=jukangpark&repo=netflix&theme=tokyonight)](https://github.com/jukangpark/netflix)   |
 |---|---|
 | ![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=jukangpark&repo=twitter&theme=tokyonight)  |  ![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=jukangpark&repo=nike_authentication&theme=tokyonight)  |
   
