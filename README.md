@@ -44,8 +44,6 @@
 
   <h1>Projects</h1>
 
-|[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=jukangpark&repo=soundcloud&theme=tokyonight)](https://github.com/jukangpark/SoundCloud_Clone)
-|[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=jukangpark&repo=twitter&theme=tokyonight)](https://github.com/jukangpark/Twitter_Clone) |[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=jukangpark&repo=twitter&theme=tokyonight)](https://github.com/jukangpark/Twitter_Clone) |[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=jukangpark&repo=twitter&theme=tokyonight)](https://github.com/jukangpark/Twitter_Clone)
 
 |  [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=jukangpark&repo=soundcloud&theme=tokyonight)] |  [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=jukangpark&repo=twitter&theme=tokyonight)](https://github.com/jukangpark/Twitter_Clone) |
 |---|---|
