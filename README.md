@@ -14,8 +14,7 @@
 [유튜브](https://www.youtube.com/channel/UCJoqs9hXVD2gdZusrhSRN9A)
 
 [인스타그램](https://www.instagram.com/code_king_academy/)
-  
-<h3> 백준 </h3>
+
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=skyxxx9339)](https://solved.ac/skyxxx9339/)
 
