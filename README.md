@@ -11,11 +11,11 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jukangpark&show_icons=true&theme=cobalt)
 
-[기술블로그](https://jkng-96.gitbook.io/devlog)
+[devlog](https://jkng-96.gitbook.io/devlog)
 
-[유튜브](https://www.youtube.com/channel/UCJoqs9hXVD2gdZusrhSRN9A)
+[YouTube](https://www.youtube.com/channel/UCJoqs9hXVD2gdZusrhSRN9A)
 
-[인스타그램](https://www.instagram.com/code_king_academy/)
+[Instagram](https://www.instagram.com/code_king_academy/)
 
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=skyxxx9339)](https://solved.ac/skyxxx9339/)
