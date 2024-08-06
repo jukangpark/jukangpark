@@ -17,9 +17,6 @@
 
 [Instagram](https://www.instagram.com/code_king_academy/)
 
-### 2023
-![image](https://github.com/user-attachments/assets/78be4b58-1645-40f2-84c1-e3f893d0173a)
-
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=skyxxx9339)](https://solved.ac/skyxxx9339/)
 
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=B897FF&height=100&section=footer)
