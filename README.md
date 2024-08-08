@@ -15,9 +15,9 @@
 
 [YouTube](https://www.youtube.com/channel/UCJoqs9hXVD2gdZusrhSRN9A)
 
-[Instagram](https://www.instagram.com/code_king_academy/)
+[Code King Academy Instagram](https://www.instagram.com/code_king_academy/)
 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=skyxxx9339)](https://solved.ac/skyxxx9339/)
+[Deskify Instagram](https://www.instagram.com/deskify_official/)
 
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=B897FF&height=100&section=footer)
 
