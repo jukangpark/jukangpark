@@ -13,7 +13,7 @@
 
 [devlog](https://jkng-96.gitbook.io/devlog)
 
-[YouTube](https://www.youtube.com/channel/UCJoqs9hXVD2gdZusrhSRN9A)
+[Code King Academy YouTube](https://www.youtube.com/channel/UCJoqs9hXVD2gdZusrhSRN9A)
 
 [Code King Academy Instagram](https://www.instagram.com/code_king_academy/)
 
