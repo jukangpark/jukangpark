@@ -17,6 +17,8 @@
 
 [Code King Academy Instagram](https://www.instagram.com/code_king_academy/)
 
+[Deskify](https://deskify-bay.vercel.app)
+
 [Deskify Instagram](https://www.instagram.com/deskify_official/)
 
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=B897FF&height=100&section=footer)
