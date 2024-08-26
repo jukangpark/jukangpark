@@ -8,6 +8,7 @@
 
 
 [English Version](https://sun-sailboat-5a9.notion.site/RESUME-JuKangPark-132413513c674b5d81ddecd6963dfcba?pvs=4) 
+
 [한국어 버전](https://sun-sailboat-5a9.notion.site/JuKangPark-983a14449514465ca618de9ff2d66177?pvs=4)
 
 
