@@ -24,6 +24,9 @@
 
 [Code King Academy Instagram](https://www.instagram.com/code_king_academy/)
 
+[Code King Academy Discord](https://discord.gg/qfqvBp3Z)
+
+
 [Deskify](https://deskify-bay.vercel.app)
 
 [Deskify Instagram](https://www.instagram.com/deskify_official/)
