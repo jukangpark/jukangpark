@@ -4,7 +4,7 @@
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=B897FF&height=250&section=header&text=Code%20King%20Academy%20🌏&fontSize=60&fontColor=ffffff)
 
-## Resume / 이력서
+## Resume/이력서
 
 
 [English Version](https://sun-sailboat-5a9.notion.site/RESUME-JuKangPark-132413513c674b5d81ddecd6963dfcba?pvs=4) 
