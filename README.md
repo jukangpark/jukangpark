@@ -8,11 +8,9 @@
 
 
 
-## Resume & Portfolio
+## Resume
 
 [Resume](https://sun-sailboat-5a9.notion.site/JuKangPark-983a14449514465ca618de9ff2d66177?pvs=4)
-
-[Portfolio](https://sun-sailboat-5a9.notion.site/108a70b787f280d4b975ca174aec3114?pvs=4)
 
 
   
