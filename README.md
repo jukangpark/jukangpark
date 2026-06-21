@@ -1,6 +1,6 @@
 <div align="center">
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=B897FF&height=250&section=header&text=Code%20King%20Academy%20🌏&fontSize=60&fontColor=ffffff)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:8E54E9,100:4776E6&height=250&section=header&text=Working%20From%20Home&fontSize=58&fontColor=ffffff&animation=twinkling&fontAlignY=40&desc=@jukangpark&descSize=18&descAlignY=60)
 
 ## 
 
