@@ -18,6 +18,6 @@
 
 [devlog](https://jkng-96.gitbook.io/devlog)
 
-![footer](https://capsule-render.vercel.app/api?type=waving&color=B897FF&height=100&section=footer)
+![footer](https://capsule-render.vercel.app/api?type=waving&color=0:8E54E9,100:4776E6&height=100&section=footer)
 
 </div>
