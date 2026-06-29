@@ -8,7 +8,7 @@
 
 ## Resume
 
-[Resume](https://sun-sailboat-5a9.notion.site/JuKangPark-983a14449514465ca618de9ff2d66177?pvs=4)
+[Resume](https://portfolio.jklab.app)
 
 
 
